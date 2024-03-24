@@ -1,1 +1,0 @@
-# Multispectral Background Subtractions
