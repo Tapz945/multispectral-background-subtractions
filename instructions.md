@@ -1,7 +1,8 @@
 
 ## **Activate the environment and right path**
+```
 conda activate gpu
-cd ..
+```
 
 ### **Training**
 ```
