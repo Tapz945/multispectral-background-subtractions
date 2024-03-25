@@ -1,5 +1,5 @@
 
-## **Activate the environment and right path**
+## **Activate the environment **
 ```
 conda activate gpu
 ```
